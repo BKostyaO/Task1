@@ -1,12 +1,6 @@
 .log
 build/
-.settings/
 .idea/
-.gradle/
-target/
-.idea/
-.classpath
-.project
-maven/
-.maven
-pom.xml
+
+
+
